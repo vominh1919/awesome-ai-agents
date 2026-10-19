@@ -50,6 +50,7 @@ A curated list of frameworks, tools, and resources for building AI agents.
 
 | Name | Description | Stars |
 |------|-------------|-------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. | ![Stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat-square) |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput LLM serving | ⭐ 40k+ |
 | [Ollama](https://github.com/ollama/ollama) | Run LLMs locally | ⭐ 110k+ |
 | [llama.cpp](https://github.com/ggerganov/llama.cpp) | LLM inference in C/C++ | ⭐ 70k+ |
